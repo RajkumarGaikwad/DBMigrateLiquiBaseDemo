@@ -23,7 +23,7 @@ databaseChangeLog:
                   type: varchar(255)
                   constraints:
                     nullable: false
-  - changeSet:
+ - changeSet:
       id: 2
       author: Rajkumar
       changes:
